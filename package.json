@@ -1,0 +1,15 @@
+{
+  "name": "card-grid-css",
+  "version": "1.0.0",
+  "description": "Crear un elemento de tipo card con Grid CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cristina",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.8.3",
+    "sass": "^1.62.1"
+  }
+}
